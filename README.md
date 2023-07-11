@@ -24,7 +24,7 @@ You can download the APK from git release <a href="">[Download]</a>
     <th>VISUALIZATION</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Jackfrst/arml_admob_test/assets/60434580/fa73b8cc-059f-4db2-b6d4-b18922e5dc87"></td>
+    <td><img src="https://github.com/Jackfrst/arml_admob_test/assets/60434580/fa73b8cc-059f-4db2-b6d4-b18922e5dc87" height= 800px></td>
   </tr>
 </table>
 
