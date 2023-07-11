@@ -9,7 +9,7 @@ ARML ADMOB
  This Flutter app is to test Google admob using the google_mobile_ads package. 
 </p>
 <p align="center">
-You can download the APK from git release <a href="">[Download]</a>
+You can download the APK from git release <a href="https://github.com/Jackfrst/arml_admob_test/releases/download/arml_ad_test/arml_ad_tester.apk">[Download]</a>
 </p>
 
 
